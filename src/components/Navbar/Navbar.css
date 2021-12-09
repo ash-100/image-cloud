@@ -1,0 +1,44 @@
+li {
+    padding: 10px 0;
+    cursor: pointer;
+    
+}
+
+.nav-heading{
+    margin-left: 100px;
+}
+.signInButton{
+    margin-left: auto;
+    margin-right: 100px;
+    color: black;
+}
+
+.signOutButton{
+    margin-left: auto;
+    margin-right: 100px;
+    color: black;
+}
+
+.toggle-button {
+    font-size: 30px;
+    margin-right: 30px;
+    color: white;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    float: right;
+}
+
+.navbar {
+    width: 100%;
+    background-color: #111;
+    color: white;
+    padding: 10px;
+}
+.nav-links {
+    height: auto;
+    display: flex;
+}
+
+  
